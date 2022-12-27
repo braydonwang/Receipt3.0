@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/ernest/Documents/receiptweb3/blockchain-node/blockchain-node-api/contracts/Receipt2.sol": {
+      "lastModificationDate": 1663488682283,
+      "contentHash": "bd7a0be6635a761ed5dd7a8a2279a7bc",
+      "sourceName": "contracts/Receipt2.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.10"
+      ],
+      "artifacts": [
+        "Receipt2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+.heading {
+    margin-top: 70px;
+    margin-bottom: 50px;
+}

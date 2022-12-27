@@ -1,0 +1,22 @@
+.cardContainer {
+    max-width: 25%;
+    background-color: rgb(78, 6, 137);
+    border-radius: 20px;
+    opacity: 1;
+}
+
+.cardContainer:hover {
+    opacity: 0.9;
+    padding: 0;
+}
+
+.image {
+    border-radius: 20px 20px 0 0;
+}
+
+.name {
+    max-width: 300px;
+    margin: 20px 25px;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}

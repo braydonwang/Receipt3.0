@@ -1,0 +1,45 @@
+.navbarContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items: center;
+  padding-top: 43px;
+  padding-right: 40px;
+  width: 100%;
+  position: absolute;
+}
+
+.optionContainer {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  justify-content: right;
+  right: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navbarOption {
+  text-decoration: none;
+  margin: 0 25px;
+  font-weight: 800;
+  font-size: 25px;
+  opacity: 0.6;
+  color: rgb(26, 176, 200);
+  transition: 0.3s;
+}
+
+.registerOption {
+  text-decoration: none;
+  margin: 0 25px;
+  font-weight: 800;
+  font-size: 25px;
+  opacity: 0.6;
+  color: rgb(26, 176, 200);
+  transition: 0.3s;
+  background-color: black;
+  padding: 20px;
+}

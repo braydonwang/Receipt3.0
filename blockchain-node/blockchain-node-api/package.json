@@ -1,0 +1,28 @@
+{
+  "name": "blockchain-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.6",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/contract": "^4.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.17.2",
+    "hardhat": "^2.11.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.15",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "ethers": "^5.7.1"
+  }
+}
