@@ -9,13 +9,22 @@ The idea of the project focused on decentralization, where individuals had owner
 
 ### How to run locally
 
-1. Install required dependencies in both front-end and back-end folders
+1. Install required dependencies in both frontend and backend folders
 ```
 npm install
 ```
 
-2. Navigate to the front-end folder (blockchain-node-api-react)
-3. Run the app on localhost:3000
+2. Navigate to the frontend folder `blockchain-node-api-react`
+3. Run the app on `localhost:3000`
 ```
 npm start
 ```
+
+### Built with
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+* ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+* ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+* ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+* ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
